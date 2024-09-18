@@ -37,7 +37,8 @@ Usage
 - Fastq files containing nanopore sequencing reads.
 ## Run the workflow using the provided shell script:
 ```bash
-./Nanopore_workflow.sh
+bash ./Cent_database_maker.sh
+bash ./Nanopore_workflow.sh
 ```
 The script will guide you through setting up the necessary directories and running the analysis.
 ## Scripts
