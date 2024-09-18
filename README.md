@@ -1,4 +1,4 @@
-Mycobacterium Analysis Workflow
+#Mycobacterium Analysis Workflow
 This repository contains a set of scripts and a workflow designed to analyze nanopore sequencing data, specifically focusing on Mycobacterium species. The workflow processes raw sequencing data, filters for Mycobacterium reads, maps them to a reference genome, and generates various reports and plots.
 
 Table of Contents
